@@ -1,0 +1,19 @@
+{
+  "name": "stackathon",
+  "version": "1.0.0",
+  "description": "chart js and hopefully yahoo finance api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harry-z-huang/yahoo-finance-visualizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harry-z-huang/yahoo-finance-visualizer/issues"
+  },
+  "homepage": "https://github.com/harry-z-huang/yahoo-finance-visualizer#readme"
+}
